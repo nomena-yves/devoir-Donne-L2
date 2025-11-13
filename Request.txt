@@ -1,0 +1,4 @@
+1-
+Select e.id_employee,e.first_name,e.last_name from employee e INNER JOIN Team T on e.id_Team=T.id_Team where T.name is null;
+
+2-
