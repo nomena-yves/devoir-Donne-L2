@@ -1,5 +1,0 @@
-1-
-Select e.id_employee,e.first_name,e.last_name from employee e where T.id is null;
-
-2-
-select e.id,e.first_name
